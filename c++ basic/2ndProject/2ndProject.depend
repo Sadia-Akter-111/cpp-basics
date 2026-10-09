@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1791124527 source:c:\users\orion tech\desktop\recursion\structure\stack\dynamic_memory\binary_serach_qn\binary_search_qn\linkdlist\sorting_code\presentation work\heap\string\graph\tree\lab exam\c++ basic\2ndproject\main.cpp
+	<iostream>
+	"learn.h"
+
+1791124744 c:\users\orion tech\desktop\recursion\structure\stack\dynamic_memory\binary_serach_qn\binary_search_qn\linkdlist\sorting_code\presentation work\heap\string\graph\tree\lab exam\c++ basic\2ndproject\learn.h
+
+1791124752 source:c:\users\orion tech\desktop\recursion\structure\stack\dynamic_memory\binary_serach_qn\binary_search_qn\linkdlist\sorting_code\presentation work\heap\string\graph\tree\lab exam\c++ basic\2ndproject\learn.cpp
+	"learn.h"
+	<iostream>
+

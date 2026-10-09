@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1791121876 source:c:\users\orion tech\desktop\recursion\structure\stack\dynamic_memory\binary_serach_qn\binary_search_qn\linkdlist\sorting_code\presentation work\heap\string\graph\tree\lab exam\c++ basic\myproject\main.cpp
+	<iostream>
+	"my1stclass.h"
+
+1791121919 c:\users\orion tech\desktop\recursion\structure\stack\dynamic_memory\binary_serach_qn\binary_search_qn\linkdlist\sorting_code\presentation work\heap\string\graph\tree\lab exam\c++ basic\myproject\my1stclass.h
+	"my1stclass.h"
+
+1791121822 source:c:\users\orion tech\desktop\recursion\structure\stack\dynamic_memory\binary_serach_qn\binary_search_qn\linkdlist\sorting_code\presentation work\heap\string\graph\tree\lab exam\c++ basic\myproject\my1stclass.cpp
+	"my1stclass.h"
+	<iostream>
+
